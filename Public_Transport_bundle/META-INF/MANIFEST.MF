@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Public_Transport_bundle
+Bundle-SymbolicName: Public_Transport_bundle
+Bundle-Version: 1.0.0.qualifier
+Export-Package: public_transport_bundle
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-Activator: public_transport_bundle.PublicTransport_Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Public.Transport.bundle
+
+

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SmartPaking_Bundle
+Bundle-SymbolicName: SmartPaking_Bundle
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: SmartPaking.Bundle
+Bundle-RequiredExecutionEnvironment: JavaSE-17
